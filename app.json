@@ -1,7 +1,7 @@
 {
   "name": "Kitty-Bot",
   "description": "Kitty-MD",
-  "repository": "",
+  "repository": "https://github.com/kitty-ff/Kitty-MD.git",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": [
     "bot",
